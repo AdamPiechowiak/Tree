@@ -1,0 +1,1 @@
+Skrypt jest rozwiązaniem zadania "Christmas Tree Hash" ze strony CTFlearn https://ctflearn.com/challenge/432
